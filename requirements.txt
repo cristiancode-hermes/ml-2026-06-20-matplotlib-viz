@@ -1,0 +1,12 @@
+# 📊 Visualización de datos con matplotlib y seaborn
+# Nivel 1 — Skill: matplotlib + seaborn
+
+# Core
+numpy>=1.26.0
+pandas>=2.1.0
+
+# Visualización
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# (No se necesitan más dependencias para este proyecto)
